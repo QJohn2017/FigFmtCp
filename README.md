@@ -13,37 +13,28 @@ Want to copy the style of one old figure to another but don't know the axis/wind
 
 Try this Format Copier!
 
-
-
-
-  
-
-
-
-
-
-
-
-
-
+\\
+\\
+\\
+\\
 
 
 
 ## Example
 **Copy the axis and window styles from figure 1 to figure 2** 
-<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/example1.png" width="800">
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/example1.png" width="600">
 
 
 
 **Copy the axis, window and colormap styles from figure 1 to figure 2** 
-<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/example2.png" width="800">
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/example2.png" width="600">
 
 
 
 
 
 ## Buttons
-<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/bts.png" width="400">
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/bts.png" width="500">
 
 
 
