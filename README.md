@@ -1,2 +1,45 @@
 # FigFmtCp
-Matlab Figure Format Copier 
+Matlab Figure Format Copier
+
+
+![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resource/UI.png)
+
+
+
+
+Making several figures with same style for a paper?
+
+Want to copy the style of one old figure to another but don't know the axis/window parameters?
+
+Try this Format Copier!
+
+
+
+
+##Example
+**Copy the axis and window styles from figure 1 to figure 2** 
+![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resource/example1.png)
+
+
+
+**Copy the axis, window and colormap styles from figure 1 to figure 2** 
+![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resource/example2.png)
+
+
+
+
+##Buttons
+![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resource/bts.png)
+
+
+
+
+## Author
+* **Tianhong Wang (Cornell University)**(tw474@cornell.edu) 
+
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
