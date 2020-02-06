@@ -16,13 +16,20 @@ Try this Format Copier!
 
 
 
+  
 
 
 
 
 
 
-##Example
+               
+
+
+
+
+
+## Example
 **Copy the axis and window styles from figure 1 to figure 2** 
 ![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resources/example1.png)
 
@@ -34,7 +41,7 @@ Try this Format Copier!
 
 
 
-##Buttons
+## Buttons
 ![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resources/bts.png)
 
 
