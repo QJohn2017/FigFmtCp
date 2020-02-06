@@ -2,7 +2,7 @@
 Matlab Figure Format Copier
 
 
-![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resource/UI.png)
+![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resources/UI.png)
 
 
 
@@ -23,7 +23,7 @@ Try this Format Copier!
 
 
 
-               
+
 
 
 
