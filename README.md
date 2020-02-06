@@ -2,7 +2,7 @@
 Matlab Figure Format Copier
 
 
-![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resources/UI.png| width=48)
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/UI.png" width="48">
 
 
 
