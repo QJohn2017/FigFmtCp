@@ -13,10 +13,13 @@ Want to copy the style of one old figure to another but don't know the axis/wind
 
 Try this Format Copier!
 
-\\
-\\
-\\
-\\
+
+ \
+ \
+ \
+ \
+ \
+ 
 
 
 
