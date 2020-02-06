@@ -2,7 +2,7 @@
 Matlab Figure Format Copier
 
 
-<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/UI.png" width="48">
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/UI.png" width="400">
 
 
 
@@ -31,18 +31,20 @@ Try this Format Copier!
 
 ## Example
 **Copy the axis and window styles from figure 1 to figure 2** 
-![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resources/example1.png)
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/example1.png" width="800">
 
 
 
 **Copy the axis, window and colormap styles from figure 1 to figure 2** 
-![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resources/example2.png)
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/example2.png" width="800">
+
 
 
 
 
 ## Buttons
-![logo](https://github.com/tianhongg/FigFmtCp/blob/master/resources/bts.png)
+<img src="https://github.com/tianhongg/FigFmtCp/blob/master/resources/bts.png" width="400">
+
 
 
 
